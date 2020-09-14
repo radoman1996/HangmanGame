@@ -1,0 +1,1 @@
+avion,autobus,voz,biciklo,motor,automobil,kombi,tramvaj,brod,čamac,skuter,gliser,kamion,cistjerna,šleper,hladnjača,traktor,kombajn,damper

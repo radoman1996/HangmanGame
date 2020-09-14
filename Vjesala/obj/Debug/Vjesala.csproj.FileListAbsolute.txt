@@ -1,0 +1,22 @@
+c:\users\asus\source\repos\Vjesala\Vjesala\bin\Debug\Vjesala.exe.config
+c:\users\asus\source\repos\Vjesala\Vjesala\bin\Debug\Vjesala.exe
+c:\users\asus\source\repos\Vjesala\Vjesala\bin\Debug\Vjesala.pdb
+c:\users\asus\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.Form1.resources
+c:\users\asus\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.Properties.Resources.resources
+c:\users\asus\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.exe
+c:\users\asus\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.pdb
+C:\Users\Asus\source\repos\Vjesala\Vjesala\obj\Debug\Vjesala.Form2.resources
+C:\Users\Asus\Desktop\bzv\New folder\Vjesala\Vjesala\bin\Debug\Vjesala.exe.config
+C:\Users\Asus\Desktop\bzv\New folder\Vjesala\Vjesala\bin\Debug\Vjesala.exe
+C:\Users\Asus\Desktop\bzv\New folder\Vjesala\Vjesala\bin\Debug\Vjesala.pdb
+C:\Users\Asus\Desktop\bzv\New folder\Vjesala\Vjesala\obj\Debug\Vjesala.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\bzv\New folder\Vjesala\Vjesala\obj\Debug\Vjesala.Form1.resources
+C:\Users\Asus\Desktop\bzv\New folder\Vjesala\Vjesala\obj\Debug\Vjesala.Form2.resources
+C:\Users\Asus\Desktop\bzv\New folder\Vjesala\Vjesala\obj\Debug\Vjesala.Properties.Resources.resources
+C:\Users\Asus\Desktop\bzv\New folder\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\bzv\New folder\Vjesala\Vjesala\obj\Debug\Vjesala.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\bzv\New folder\Vjesala\Vjesala\obj\Debug\Vjesala.exe
+C:\Users\Asus\Desktop\bzv\New folder\Vjesala\Vjesala\obj\Debug\Vjesala.pdb
